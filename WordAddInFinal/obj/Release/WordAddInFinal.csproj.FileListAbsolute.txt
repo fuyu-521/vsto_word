@@ -1,0 +1,11 @@
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.csproj.AssemblyReference.cache
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.Properties.Resources.resources
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.Ribbon1.resources
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.csproj.GenerateResource.cache
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.csproj.CoreCompileInputs.cache
+D:\MyProgram\WordAddInFinal\bin\Release\WordAddInFinal.dll
+D:\MyProgram\WordAddInFinal\bin\Release\WordAddInFinal.dll.manifest
+D:\MyProgram\WordAddInFinal\bin\Release\WordAddInFinal.vsto
+D:\MyProgram\WordAddInFinal\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.csproj.CopyComplete
+D:\MyProgram\WordAddInFinal\obj\Release\WordAddInFinal.dll

@@ -1,0 +1,13 @@
+D:\MyProgram\WordAddInFinal\bin\Debug\WordAddInFinal.dll
+D:\MyProgram\WordAddInFinal\bin\Debug\WordAddInFinal.pdb
+D:\MyProgram\WordAddInFinal\bin\Debug\WordAddInFinal.dll.manifest
+D:\MyProgram\WordAddInFinal\bin\Debug\WordAddInFinal.vsto
+D:\MyProgram\WordAddInFinal\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.csproj.AssemblyReference.cache
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.Properties.Resources.resources
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.Ribbon1.resources
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.csproj.GenerateResource.cache
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.csproj.CoreCompileInputs.cache
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.csproj.CopyComplete
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.dll
+D:\MyProgram\WordAddInFinal\obj\Debug\WordAddInFinal.pdb
